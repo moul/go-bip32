@@ -1,6 +1,6 @@
 # go-bip32
 
-[![PkgGoDev](https://pkg.go.dev/badge/tyler-smith/go-bip32)](https://pkg.go.dev/tyler-smith/go-bip32)
+[![PkgGoDev](https://pkg.go.dev/badge/tyler-smith/go-bip32)](https://pkg.go.dev/github.com/tyler-smith/go-bip32)
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 [![MIT License](https://img.shields.io/github/license/tyler-smith/go-bip32.svg?maxAge=2592000&color=blue)](https://github.com/tyler-smith/go-bip32/blob/master/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/tyler-smith/go-bip32.svg?color=blue)](https://github.com/tyler-smith/go-bip32/graphs/contributors)
